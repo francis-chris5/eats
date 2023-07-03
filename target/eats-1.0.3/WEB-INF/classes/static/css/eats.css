@@ -1,0 +1,14 @@
+
+
+html{
+    min-height: 100%;
+    font-size: 11pt;
+}
+
+h1, h3{
+    color: rosybrown
+}
+
+a{
+    color: green;
+}
